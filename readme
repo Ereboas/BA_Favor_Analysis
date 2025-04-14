@@ -1,4 +1,4 @@
-data_collection.py -> download_avatar.py(optional) -> manim_render.py
+python data_collection.py -> python download_avatar.py (optional) -> manim -pqh manim_render.py AnyNameYouLike
 
 You may follow the official instructions to install manim on your device.
 
